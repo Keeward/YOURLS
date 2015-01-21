@@ -1,0 +1,3 @@
+[submodule "user/plugins/random-keywords"]
+	path = user/plugins/random-keywords
+	url = https://github.com/YOURLS/random-keywords.git
